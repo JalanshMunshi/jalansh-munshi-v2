@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Developer
+    company: The Luminosity Lab
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: Tempe, Arizona
+    date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        * Full-stack development for a web application that connects small businesses to student volunteers. 
+        * UI developer for a web application that lets users post and explore business ideas. 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Full Stack Developer
+    company: Pirimid Fintech
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Ahmedabad, India
+    date_start: '2020-08-20'
+    date_end: '2020-12-15'
+    description: 
+        * Eliminated the need for in-person identity verification between banks and individual users by developing an e-KYC platform. Also optimized the code to reduce multiple API calls to a single API call.
+        * Migrated stock positions data dashboards from Tableau to Grafana for improving the efficiency of data filtering. 
 
 design:
   columns: '2'
