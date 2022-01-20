@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jalansh Munshi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: GRA at The Luminosity Lab, ASU | Ex Full Stack Dev at Pirimid Fintech
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Arizona State University
+  url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include software engineering, hiking, and cooking. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Full Stack Software Development
+- Frontend Software Development
+- Backend Software Development
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Science, Computer Science
+    institution: Arizona State University
+    year: 2022
+  - course: Bachelor of Technology, Information and Communication Technology
+    institution: Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT) - Gandhinagar, India
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,36 +39,37 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:jalansh.munshi1366@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jalansh-munshi/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JalanshMunshi
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: "uploads/Jalansh Munshi's Resume - Software Engineer.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jalansh.munshi1366@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a full stack software engineer and I am currently pursuing my Masters of Science in Computer Science at Arizona State University (ASU). I completed my Bachelors in Information and Communication Technology from Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), India. I love to develop software and I always get excited to write a software from scratch because I believe that one can understand a feature fully when one develops both, the frontend and backend.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I develop software for {{< staticref "https://theluminositylab.com/" "newtab" >}}The Luminosity Lab{{< /staticref >}} by working part-time. Prior to joining ASU, I worked as a Software Engineer at {{< staticref "https://pirimidtech.com/" "newtab" >}}Pirimid Fintech{{< /staticref >}}, where I developed an e-KYC system from scratch. I have also contributed to an Open Source repository named {{< staticref "https://habitica.com/" "newtab" >}}Habitica{{< /staticref >}}, and interned at a US-based MNC named {{< staticref "https://maqsoftware.com/" "newtab" >}}MAQ Software{{< /staticref >}} where I started my journey of full-stack development.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Over the years, I have gained experience with ReactJS, Spring Framework, Flask, Docker, PostgreSQL, MongoDB, and .NET Framework, owing to my work experience and personal and academic projects.
+
+Apart from the technical stuff, I like to read, work out, go for hikes, cook new recipes, and travel and explore new places. I am always excited to meet new people; so if you're reading this, hit me up!
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
