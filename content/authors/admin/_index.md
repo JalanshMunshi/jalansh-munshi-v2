@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Master of Science, Computer Science
-    institution: Arizona State University
+    institution: Arizona State University, USA
     year: 2022
   - course: Bachelor of Technology, Information and Communication Technology
     institution: Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT) - Gandhinagar, India

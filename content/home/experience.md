@@ -42,7 +42,28 @@ experience:
     date_end: '2020-12-15'
     description: |2-
         * Eliminated the need for in-person identity verification between banks and individual users by developing an e-KYC platform. Also optimized the code to reduce multiple API calls to a single API call.
-        * Migrated stock positions data dashboards from Tableau to Grafana for improving the efficiency of data filtering. 
+        * Migrated stock positions data dashboards to Grafana for improving the efficiency of data filtering.
+        
+  - title: Open Source Contributor
+    company: Habitica
+    company_url: 'https://habitica.com/'
+    company_logo: 
+    location: Remote
+    date_start: '2020-06-05'
+    date_end: '2020-08-10'
+    description: |2-
+        * Fixed the re-casting of 2 major skills, Stealth and Chilling Frost, which impacted all the users. 
+        * Fixed redundant invites and member count bugs for parties, and helped new contributors to set up the code base.
+  
+  - title: Software Intern
+    company: MAQ Software
+    company_url: 'https://maqsoftware.com/'
+    company_logo: 
+    location: Mumbai, India
+    date_start: '2020-01-06'
+    date_end: '2020-05-29'
+    description: |2-
+        * Worked on the frontend and backend changes for a 24x7 live platform which receives a high volume of transactions (>100,000) operated by a large US-based MNC. 
 
 design:
   columns: '2'
