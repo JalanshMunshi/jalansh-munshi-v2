@@ -40,7 +40,7 @@ experience:
     location: Ahmedabad, India
     date_start: '2020-08-20'
     date_end: '2020-12-15'
-    description: 
+    description: |2-
         * Eliminated the need for in-person identity verification between banks and individual users by developing an e-KYC platform. Also optimized the code to reduce multiple API calls to a single API call.
         * Migrated stock positions data dashboards from Tableau to Grafana for improving the efficiency of data filtering. 
 
