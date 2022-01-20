@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Software Developer
     company: The Luminosity Lab
-    company_url: ''
+    company_url: 'https://theluminositylab.com/'
     company_logo: 
     location: Tempe, Arizona
     date_start: '2021-03-01'
@@ -35,7 +35,7 @@ experience:
         
   - title: Full Stack Developer
     company: Pirimid Fintech
-    company_url: ''
+    company_url: 'https://pirimidtech.com/'
     company_logo: 
     location: Ahmedabad, India
     date_start: '2020-08-20'
