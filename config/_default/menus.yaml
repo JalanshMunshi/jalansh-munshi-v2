@@ -7,15 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Experience
+    url: '#experiece'
+    weight: 20
   - name: Posts
     url: '#posts'
-    weight: 20
+    weight: 30
   - name: Projects
     url: '#projects'
-    weight: 30
+    weight: 40
   - name: Resume
     url: "uploads/Jalansh Munshi's Resume - Software Engineer.pdf"
-    weight: 40
+    weight: 50
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
