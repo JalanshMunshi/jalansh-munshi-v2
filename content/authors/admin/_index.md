@@ -6,7 +6,7 @@ title: Jalansh Munshi
 superuser: true
 
 # Role/position/tagline
-role: GRA at The Luminosity Lab, ASU | Ex Full Stack Dev at Pirimid Fintech
+role: Incoming SDE Intern at Adobe | GRA at The Luminosity Lab, ASU | Ex Full Stack Dev at Pirimid Fintech
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include software engineering, hiking, and cooking. 
+bio: My interests include full-stack software engineering, hiking, and cooking. 
 
 # Interests to show in About widget
 interests:
