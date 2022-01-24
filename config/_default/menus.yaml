@@ -25,6 +25,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- - name: CV
-   url: "uploads/Jalansh Munshi's Resume - Software Engineer.pdf"
+ - name: Resume
+   url: "static/uploads/Jalansh Munshi's Resume - Software Engineer.pdf"
    weight: 70
