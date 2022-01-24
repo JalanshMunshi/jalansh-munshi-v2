@@ -48,7 +48,7 @@ social:
   link: https://github.com/JalanshMunshi
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jalansh_m
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,11 +64,9 @@ email: "jalansh.munshi1366@gmail.com"
 highlight_name: true
 ---
 
-I am a full stack software engineer and I am currently pursuing my Masters of Science in Computer Science at Arizona State University (ASU). I completed my Bachelors in Information and Communication Technology from Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), India. I love to develop software and I always get excited to write a software from scratch because I believe that one can understand a feature fully when one develops both, the frontend and backend.
+I am a full stack software engineer and I am currently pursuing my Masters of Science in Computer Science at Arizona State University (ASU). I completed my Bachelors in Information and Communication Technology from DA-IICT, India. I am passionate about full-stack Software Engineering because I believe that one can understand a feature fully when one develops both, the frontend and backend.
 
 Currently, I develop software for {{< staticref "https://theluminositylab.com/" "newtab" >}}The Luminosity Lab{{< /staticref >}} by working part-time. Prior to joining ASU, I worked as a Software Engineer at {{< staticref "https://pirimidtech.com/" "newtab" >}}Pirimid Fintech{{< /staticref >}}, where I developed an e-KYC system from scratch. I have also contributed to an Open Source repository named {{< staticref "https://habitica.com/" "newtab" >}}Habitica{{< /staticref >}}, and interned at a US-based MNC named {{< staticref "https://maqsoftware.com/" "newtab" >}}MAQ Software{{< /staticref >}} where I started my journey of full-stack development.
-
-Over the years, I have gained experience with ReactJS, Spring Framework, Flask, Docker, PostgreSQL, MongoDB, and .NET Framework, owing to my work experience and personal and academic projects.
 
 Apart from the technical stuff, I like to read, work out, go for hikes, cook new recipes, and travel and explore new places. I am always excited to meet new people; so if you're reading this, hit me up!
 
