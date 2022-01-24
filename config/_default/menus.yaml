@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Resume
-    url: static/uploads/resume.pdf
+    url: "static/uploads/Jalansh Munshi's Resume - Software Engineer.pdf"
     weight: 40
   # - name: Talks
   #   url: '#talks'
