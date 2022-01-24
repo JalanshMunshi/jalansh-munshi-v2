@@ -68,6 +68,6 @@ I am a full stack software engineer and I am currently pursuing my Masters of Sc
 
 Currently, I develop software for {{< staticref "https://theluminositylab.com/" "newtab" >}}The Luminosity Lab{{< /staticref >}} by working part-time. Prior to joining ASU, I worked as a Software Engineer at {{< staticref "https://pirimidtech.com/" "newtab" >}}Pirimid Fintech{{< /staticref >}}, where I developed an e-KYC system from scratch. I have also contributed to an Open Source repository named {{< staticref "https://habitica.com/" "newtab" >}}Habitica{{< /staticref >}}, and interned at a US-based MNC named {{< staticref "https://maqsoftware.com/" "newtab" >}}MAQ Software{{< /staticref >}} where I started my journey of full-stack development.
 
-Apart from the technical stuff, I like to read, work out, go for hikes, cook new recipes, and travel and explore new places. I am always excited to meet new people; so if you're reading this, hit me up!
+Apart from the technical stuff, I like to read non-fiction, work out, go for hikes, cook new recipes, and travel and explore new places. I am always excited to meet new people; so if you're reading this, hit me up!
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
