@@ -14,7 +14,7 @@ organizations:
   url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include full-stack software engineering, hiking, and cooking. 
+bio: My interests include full-stack software engineering, reading non-fiction, traveling, and cooking. 
 
 # Interests to show in About widget
 interests:
