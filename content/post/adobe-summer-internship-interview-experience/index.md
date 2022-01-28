@@ -1,9 +1,9 @@
 ---
 title: My Journey to a Summer Internship at Adobe
-subtitle: Read on to know how I got an opportunity to interview at Adobe. This post also higlights my preparation for the interviews and my interview experience. 
+subtitle: Read on to know how I got an opportunity to interview at Adobe. This post also highlights my preparation for the interviews and my interview experience. 
 
 # Summary for listings and search engines
-summary: Read on to know how I got an opportunity to interview at Adobe. This post also higlights my preparation for the interviews and my interview experience. 
+summary: Read on to know how I got an opportunity to interview at Adobe. This post also highlights my preparation for the interviews and my interview experience. 
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 date: "2022-01-24T00:00:00Z"
 
 # Date updated
-lastmod: "2022-01-25T00:00:00Z"
+lastmod: "2022-01-28T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -62,7 +62,7 @@ On a side note, don't be too hard on yourself if you don't know the answer to a 
 
 My interview process was a bit different. I was first invited for a 30-minute round. In the first round, the interviewer asked me a simple programming question and my approach's optimization (only the logic, no code required). I was also asked some basic questions related to OOP, DBMS, OS, questions based on things that I had on my resume such as React, SQL etc, and a couple of behavioral questions. This interview was a very quick one as I felt that there were too many questions for a 30-minute window.
 
-A week after the first round, I was invited for my final round. This is what was most different from other interviews. The final round was called 'Software Engineering Interview Forum' and there were more that 25 teams who were interviewing as a part of the forum. I received my final schedule where they informed me about the teams that I will be interviewing with. Aday before the final round, they also hosted a welcome call for the interview candidates where they explained the overall process and cleared general queries regarding possible offers and deadlines. This is when I realised that there are many other students who are going through the same interview pipeline. 
+A week after the first round, I was invited for my final round. This is what was most different from other interviews. The final round was called 'Software Engineering Interview Forum' and there were more that 25 teams who were interviewing as a part of the forum. I received my final schedule where they informed me about the teams that I will be interviewing with. A day before the final round, they also hosted a welcome call for the interview candidates where they explained the overall process and cleared general queries regarding possible offers and deadlines. This is when I realised that there are many other students who are going through the same interview pipeline. 
 
 My interview was scheduled with four different teams. In all the interviews, the panelists comprised of the manager of the team and one or more team-members. Summarizing all the four interviews, I was asked questions based on my previous experiences, projects, publication, research work, typical behavioral questions, and two algorithmic questions which I was required to code. Overall, my experience with all the interviews was quite positive. They were interested to know what I can bring to the table and asked specific questions regarding my previous experiences. Moreover, they were friendly if I did not remember something or had to take up a hint for a programming question. 
 
