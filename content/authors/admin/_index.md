@@ -19,8 +19,8 @@ bio: My interests include full-stack software engineering, reading non-fiction, 
 # Interests to show in About widget
 interests:
 - Full Stack Software Development
-- Frontend Software Development
-- Backend Software Development
+- Blockchain Development
+- Web3.0
 
 # Education to show in About widget
 education:
