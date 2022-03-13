@@ -50,7 +50,7 @@ I have written this post for Software Engineering internships for US-based roles
 
 # Who the hell am I to present my views about finding an internship? 
 
-Finding an internship is something that I have struggled with and I reached out to a lot of people for guidance. Ideal time for applying, how to prepare, how do I get past the ATS, et cetera. I ended up receiving interview invitations to multiple companies (MNCs and startups) and landed multiple internship offers. I feel that this makes me qualified enough to talk about my experiences so that someone can benefit from them in the future. 
+Finding an internship is something that I have struggled with and I reached out to a lot of people for guidance. Ideal time for applying, how to prepare, how do I get past the [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system), et cetera. I ended up receiving interview invitations to multiple companies (MNCs and startups) and landed multiple internship offers. I feel that this makes me qualified enough to talk about my experiences so that someone can benefit from them in the future. 
 
 And while we are at it, it will also save me a lot of time to just forward this post instead of arranging for a call everytime a friend needs to talk about this, haha! 
 
@@ -66,7 +66,9 @@ It is always a good idea to have a roadmap inside your mind about what you have 
 
 Resume is a crucial part of any internship or job application. It defines who you are and what you bring to the table. It is very important to highlight your previous experiences and your expected graduation date on your resume. Recruiters usually look for these two things on your resume and then have a look at the rest of it. I learnt this from a couple of recruiters and this is not my personal whim. Apart from your experiences, you can mention publications and/or some projects that you have done. Projects can be academic or personal. 
 
-It does matter how you present the information on your resume. Whenever I add a new experience or project to my resume, I always remember the feedback I received from an individual about my resume - "Sound like an achiever instead of a doer". Be a humblebrag. If possible, ask your friend, or brother/sister to review your resume for some grammatical mistakes or for the content. 
+It does matter how you present the information on your resume. Whenever I add a new experience or project to my resume, I always remember the feedback I received from an individual about my resume - "Sound like an achiever instead of a doer." Be a humblebrag. If possible, ask your friend, or brother/sister to review your resume for some grammatical mistakes or for the content. 
+
+As far as the ATS is concerned, that is something that I do not have detailed knowledge about. It is a black box for me as well. We usually submit a PDF copy of our resume and not every PDF parser parses the text on our resume with 100% accuracy. Take Workday or Lever for example. The content for my resume was more accurately parsed by Lever as opposed to Workday. A workaround that I came up with was to include the specific keywords as many times as I can, but only at relevant places. For example, I used React during a couple of my professional experiences. Hence, I mentioned React in the tech-sack for both the experiences and also mentioned it in the Skills section. You can do something different which may work out for you. Again, this is something that I do on the basis of my intuition and it may not be necessarily correct. 
 
 ## Building your profile
 
@@ -90,7 +92,7 @@ Apart from that, you can find tons of opportunities on [LinkedIn](https://www.li
 
 ## Network!
 
-Networking is really important when it comes to applying for new opportunities at any point of your career. Along with applying for open positions, I would also recommend anyone to register for webinars hosted by companies as it may lead to a connection with a recruiter and can potentially land you an interview opportunity. This is how I got in touch with a recruiter from Apple and got an offer to intern at Adobe. You can find more about the Adobe gig [here](https://jalanshmunshi.com/post/adobe-summer-internship-interview-experience/). 
+Networking is really important when it comes to applying for new opportunities at any point of your career. Along with applying for open positions, I would also recommend anyone to register for webinars hosted by companies as it may lead to a connection with a recruiter and can potentially land you an interview opportunity. This is how I got an offer to intern at Adobe and was also able to connect with a recruiter from Apple. You can read more about the Adobe gig [in this post](https://jalanshmunshi.com/post/adobe-summer-internship-interview-experience/). 
 
 Reaching out to people before your interview will also help you with your preparation. I used [cscareers.dev](https://www.cscareers.dev/) for reaching out to people who recently interviewed for a company with who I had an interview scheduled. The discord server of [cscareers.dev](https://www.cscareers.dev/) was quite handy for this purpose and gave me a direction for my preparation. You can find the invite link on their official website. 
 
