@@ -1,21 +1,21 @@
 ---
 title: Finding an Internship in the US
-subtitle: My views and experience about finding an internship in the United States. 
+subtitle: My views and experience about finding an internship in the United States. I also point out some useful resources to find an internship. 
 
 # Summary for listings and search engines
-summary: My views and experience about finding an internship in the United States. 
+summary: My views and experience about finding an internship in the United States. I also point out some useful resources to find an internship. 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2022-01-24T00:00:00Z"
+date: "2022-03-12T00:00:00Z"
 
 # Date updated
-lastmod: "2022-01-28T00:00:00Z"
+lastmod: "2022-03-12T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -46,7 +46,7 @@ How to get an internship in the US? When should I start applying for internships
 
 If you are someone who has similar questions in your mind, then I highly recommend reading the entire post as it will greatly help you to pave a path for yourself when you start the internship hunt. 
 
-I have written this post for Software Engineering internships for US-based roles. However, I believe that many bits and pieces of this post can help any student in any country. 
+I have written this post for Software Engineering internships for US-based roles. However, I believe that many bits and pieces of this post can help any student in any country. I also think that this process will be quite similar for finding jobs in the US. But at the time of writing the post, my job search hadn't started. So I thought it is best to avoid that for now. 
 
 # Who the hell am I to present my views about finding an internship? 
 
@@ -55,6 +55,8 @@ Finding an internship is something that I have struggled with and I reached out 
 And while we are at it, it will also save me a lot of time to just forward this post instead of arranging for a call everytime a friend needs to ask this, haha! 
 
 Jokes apart, let's get down to business! 
+
+{{< figure src="internship-meme.jpeg" title="Felt funny. Might remove later. Image credit: [Twitter](https://twitter.com/Akthar313/status/1433093236881453060?s=20&t=63KALzyDXxMR8ijeZQIZNQ)" >}}
 
 # Before you start applying...
 
@@ -80,9 +82,9 @@ To put in extremely simple terms, find as many opportunities as you can and appl
 
 ## How do I find the opportunities? 
 
-The best place I went to for finding any new postings was [this public repository](https://github.com/pittcsc/Summer2022-Internships) mainitained by the Computer Science Club of University of Pittsburgh. This repository is actively updated by people all over the US and Canada. 
+The best place I went to for finding any new postings was [this public repository](https://github.com/pittcsc/Summer2022-Internships) mainitained by the Computer Science Club of University of Pittsburgh. This repository is actively updated by people all over the US and Canada. Hence, it is quite reliable. 
 
-Apart from that, you can find tons of opportunities on [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Untapped](https://www.untapped.io) (previously Canvas) and many others. 
+Apart from that, you can find tons of opportunities on [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Untapped](https://www.untapped.io) (previously Canvas) and many others. Your university's Handshake portal is also a good place to look for opportunities. 
 
 ## Network!
 
@@ -94,12 +96,20 @@ Reaching out to people before your interview will also help you with your prepar
 
 That's great news! Now you have the opportunity to show the real person behind the resume. Usually, companies take up to two interviews for internships. 
 
-The interviews revolve around questions related to your previous experience or projects, typical LeetCode questions, and basic CS concepts such as database, operating systems etc. You may also be asked questions related to a technology stack that you may have mentioned on your resume. As far as LeetCode questions are concerned, you can expect an easy or medium question in most interviews. By the time I started applying for internships, I had solved 600+ questions on LeetCode and only 7.5% of them were Hard questions. 
+The interviews revolve around questions related to your previous experience or projects, typical LeetCode questions, and basic CS concepts such as database, operating systems etc. You may also be asked questions related to a technology stack that you may have mentioned on your resume. As far as LeetCode questions are concerned, you can expect an easy or medium question in most interviews. Many interviewers will also ask behavioral questions in order to understand your thought process in some peculiar situations. Quite often, I refer to [Amazon's Leadership Principles](https://www.levels.fyi/blog/amazon-leadership-principles.html) as forming my answers to these principles covers most of the behavioral questions for me. 
 
+It is also crucial to prepare some questions of your own so that you can ask them to the interviewer. Interviewers usually like it when you're curious about the role, work culture, or the company in general.  I would recommend you to diligently research about what the company does. If you have the details about the interviewer, then looking the interviewer up on LinkedIn is also a good idea so that you perhaps understand what the interviewer works on or is interested in. 
 
-1. A brief overview about the whole post.
-2. Why do I qualify to write this post - talk about the previous interviews.
-3. Which things do I feel are important for getting an interview?
-4. What to do if you don't have them.
-5. Resources for finding open positions - CS careers, GitHub repo. 
-6. 
+Last but the not the least, maintain your calm during the interview. It's just another conversation with a person. Panicking about it or being anxious about it can do you more harm than good. Prepare well, meditate or take deep breaths before the interview, and be the best version of yourself during the interview. 
+
+# After the interview
+
+This can be the completion of one of the rounds or completion of the final round. At the end of any interview, I usually ask the interviewer that when can I expect to hear back from the company regarding my candidacy. Avoid contacting them just one or two days after your last interview, unless you have an offer deadline from another company or some other urgent matter. If you don't hear back after a week, then asking the recruiter by email is a good idea. 
+
+Lastly, remember that you're in this for a long run. You may not get an offer as soon you start applying. You may not even get an offer from a company where you aced the interview. But don't lose hope or get disheartened. Keep applying and don't stop reaching out to people. You never know what can work out for you. 
+
+# Fin
+
+Thank you for reading my post. Albeit superfluous, there were a hundred other things that came to my mind that I thought I should include. I felt they were too specific and I wanted to be as concise as possible in this post. I hope that you have a better idea about the internship process now and you land an internship at your dream company. 
+
+Last but not the least, I am quite new to writing articles and I am sure my writing style needs improvement. I may have missed some aspect of the whole process as well. I would love to hear positive or negative feedback about the post. Feel free to reach out to me [by email](mailto:jalansh.munshi1366@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jalansh-munshi)! 
