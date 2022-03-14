@@ -12,7 +12,7 @@ projects: []
 date: "2022-03-12T00:00:00Z"
 
 # Date updated
-lastmod: "2022-03-12T00:00:00Z"
+lastmod: "2022-03-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -68,7 +68,7 @@ Resume is a crucial part of any internship or job application. It defines who yo
 
 It does matter how you present the information on your resume. Whenever I add a new experience or project to my resume, I always remember the feedback I received from an individual about my resume - "Sound like an achiever instead of a doer." Be a humblebrag. If possible, ask your friend, or brother/sister to review your resume for some grammatical mistakes or for the content. 
 
-As far as the ATS is concerned, that is something that I do not have detailed knowledge about. It is a black box for me as well. We usually submit a PDF copy of our resume and not every PDF parser parses the text on our resume with 100% accuracy. Take Workday or Lever for example. The content for my resume was more accurately parsed by Lever as opposed to Workday. A workaround that I came up with was to include the specific keywords as many times as I can, but only at relevant places. For example, I used React during a couple of my professional experiences. Hence, I mentioned React in the tech-sack for both the experiences and also mentioned it in the Skills section. You can do something different which may work out for you. Again, this is something that I do on the basis of my intuition and it may not be necessarily correct. 
+As far as the ATS is concerned, that is something that I do not have detailed knowledge about. It is a black box for me as well. We usually submit a PDF copy of our resume and not every PDF parser parses the text on our resume with 100% accuracy. Take Workday or Lever for example. The content for my resume was more accurately parsed by Lever as opposed to Workday. A workaround that I came up with was to include the specific keywords as many times as I can, but only at relevant places. For example, I used React during a couple of my professional experiences. Hence, I mentioned React in the tech-stack for both the experiences and also mentioned it in the Skills section. You can do something different which may work out for you. Again, this is something that I do on the basis of my intuition and it may not be necessarily correct. 
 
 ## Building your profile
 
@@ -82,7 +82,7 @@ Learn a new technology by doing a personal project, contributing to Open Source 
 
 {{< figure src="the-hobbit-image.png" title="Image credit: [Reddit](https://www.reddit.com/r/TheHobbit/comments/1ce5wt/this_was_my_moment_where_i_smiled_really_widely/)" >}}
 
-To put in extremely simple terms, find as many opportunities as you can and apply as soon as you can. July end or August first week is usually a good time to start applying for internships. 
+To put in extremely simple terms, find as many opportunities as you can and apply as soon as you can. July-end or August first week is usually a good time to start applying for internships. For internships, the hiring usually starts from July-end and is at its peak from August to November. In general, the internships are for the 3 months during the summer. But there are many companies who offer internships during the Fall and/or Spring semester as well. The process is the same for any of them and you can perhaps try to intern at one company in the Summer and another during the Fall. 
 
 ## How do I find the opportunities? 
 
@@ -114,6 +114,6 @@ Lastly, remember that you're in this for a long run. You may not get an offer as
 
 # Fin.
 
-Thank you for reading my post. Albeit superfluous, there were a hundred other things that came to my mind that I thought I should include. I felt they were too specific and I wanted to be as concise and brief as possible in this post. I hope that you have a better idea about the internship process now and you land an internship at your dream company. 
+Thank you for reading my post. Albeit superfluous, there were a hundred other things that came to my mind that I thought I should include. I felt they were too specific and I wanted to be as concise and brief as possible in this post. I hope that you have a better idea about the internship process now and you land an internship at your dream company. I would also like to thank [Vivek Maskara](https://www.linkedin.com/in/maskaravivek/), [Purva Mhasakar](https://www.linkedin.com/in/purva98/), and [Mohit Doshi](https://www.linkedin.com/in/mohit-doshi) for their suggestions. 
 
 Last but not the least, I am quite new to writing articles and I am sure my writing style needs improvement. I may have also missed an important aspect in this post. I would love to hear positive or negative feedback about the post. Feel free to reach out to me [by email](mailto:jalansh.munshi1366@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jalansh-munshi)! 
