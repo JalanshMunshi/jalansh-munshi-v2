@@ -6,7 +6,7 @@ title: Jalansh Munshi
 superuser: true
 
 # Role/position/tagline
-role: GRA at The Luminosity Lab, ASU | Ex Full Stack Dev at Pirimid Fintech
+role: Software Engineer Intern at Adobe | GRA at The Luminosity Lab, ASU | Ex Full Stack Dev at Pirimid Fintech
 
 # Organizations/Affiliations to show in About widget
 organizations:
