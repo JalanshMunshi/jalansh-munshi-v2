@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer Intern
+    company: Adobe Sensei
+    company_url: 'https://www.adobe.com/sensei.html'
+    company_logo: 
+    location: Remote
+    date_start: '2022-05-16'
+    date_end: '2022-08-05'
+    description: |2-
+        * Revamped the entire prompt UI for providing better customization options to the user for generating images.
+        * Added seed functionality so that users can get different images for the same prompts. 
+        * Integrated image search for generating creative variations of the searched image. 
   - title: Software Developer
     company: The Luminosity Lab
     company_url: 'https://theluminositylab.com/'
