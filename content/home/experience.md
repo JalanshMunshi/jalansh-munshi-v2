@@ -41,7 +41,7 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
-        * Improving the credit rewards system to increase the mobile app usage.
+        * Improving the credit rewards system to increase the mobile app usage for Bank of the West.
         * Simulating the state of Arizona for analysing the effects of business decisions based on past data. 
         * Connected small businesses with student volunteers by developing a symbiotic web application. 
         * UI developer for a web application that lets users post and explore business ideas. 

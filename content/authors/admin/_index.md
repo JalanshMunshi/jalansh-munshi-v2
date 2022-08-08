@@ -6,7 +6,7 @@ title: Jalansh Munshi
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer Intern at Adobe | GRA at The Luminosity Lab, ASU | Ex Full Stack Dev at Pirimid Fintech
+role:  GRA at The Luminosity Lab, ASU | Ex-Software Engineer Intern at Adobe | Ex Full Stack Dev at Pirimid Fintech
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,9 @@ organizations:
   url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include full-stack software engineering, reading non-fiction, traveling, and cooking. 
+bio: Looking for full-time Software Engineering roles starting from January 2022. If you think I can be a good fit at your organization or if you know someone who's hiring, please reach out. 
+
+# My interests include full-stack software engineering, reading non-fiction, traveling, and cooking. 
 
 # Interests to show in About widget
 interests:
