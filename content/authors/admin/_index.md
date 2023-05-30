@@ -6,23 +6,22 @@ title: Jalansh Munshi
 superuser: true
 
 # Role/position/tagline
-role:  GRA at The Luminosity Lab, ASU | Ex-Software Engineer Intern at Adobe | Ex Full Stack Dev at Pirimid Fintech
+role:  Software Engineer at Adobe | The Luminosity Lab, ASU | Ex-Full Stack Dev at Pirimid Fintech
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Arizona State University
-  url: https://www.asu.edu/
+- name: Adobe
+  url: https://www.adobe.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Looking for full-time Software Engineering roles starting from January 2022. If you think I can be a good fit at your organization or if you know someone who's hiring, please reach out. 
+bio: A full-stack sofware engineer keen to gain experience in a variety of products. Hit me up if you have a new idea that we can work on!  
 
 # My interests include full-stack software engineering, reading non-fiction, traveling, and cooking. 
 
 # Interests to show in About widget
 interests:
-- Full Stack Software Development
-- Blockchain Development
-- Web3.0
+- Full-stack Software Engineering
+- Generative AI
 
 # Education to show in About widget
 education:
@@ -66,10 +65,10 @@ email: "jalansh.munshi1366@gmail.com"
 highlight_name: true
 ---
 
-I am a full stack software engineer and I am currently pursuing my Masters of Science in Computer Science at Arizona State University (ASU). I completed my Bachelors in Information and Communication Technology from DA-IICT, India. I am passionate about full-stack Software Engineering because I believe that one can understand a feature fully when one develops both, the frontend and backend.
+Jalansh is a full-stack software engineer and loves to work on different product ideas and is on a path to gain expertise in different aspects of software engineering. Currently he is developing frontend interfaces and writing business logic for the ML-based backend systems for {{< staticref "https://www.adobe.com/" "newtab" >}}Adobe{{< /staticref >}} in the generative AI domain. He joined Adobe after completing his internship in the same team during the summer of 2022. 
 
-Currently, I develop software for {{< staticref "https://theluminositylab.com/" "newtab" >}}The Luminosity Lab{{< /staticref >}} by working part-time. Prior to joining ASU, I worked as a Software Engineer at {{< staticref "https://pirimidtech.com/" "newtab" >}}Pirimid Fintech{{< /staticref >}}, where I developed an e-KYC system from scratch. I have also contributed to an Open Source repository named {{< staticref "https://habitica.com/" "newtab" >}}Habitica{{< /staticref >}}, and interned at a US-based MNC named {{< staticref "https://maqsoftware.com/" "newtab" >}}MAQ Software{{< /staticref >}} where I started my journey of full-stack development.
+Prior to joining Adobe, he worked as a software developer (part-time) at the {{< staticref "https://theluminositylab.com/" "newtab" >}}The Luminosity Lab{{< /staticref >}} and has also worked as a full-stack software engineer at {{< staticref "https://pirimidtech.com/" "newtab" >}}Pirimid Fintech{{< /staticref >}}. Moreover, he has also made some open source contributions to a repository named {{< staticref "https://habitica.com/" "newtab" >}}Habitica{{< /staticref >}}. During these experiences, he has worked on a variety of applications and technology stacks. 
 
-Apart from the technical stuff, I like to read non-fiction, work out, go for hikes, cook new recipes, and travel and explore new places. I am always excited to meet new people; so if you're reading this, hit me up!
+Jalansh completed his Master's in Computer Science from Arizona State University (ASU) and his bachelors in Information and Communication Technology from DA-IICT, India. Apart from this, Jalansh likes to read, work out, go for hikes, cook new recipes, and travel. Jalansh is always excited to meet new people; so if you're reading this, feel free to reach out!
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

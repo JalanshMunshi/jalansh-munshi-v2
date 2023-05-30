@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Adobe
+    company_url: 'https://www.adobe.com/'
+    company_logo: 
+    location: San Jose, California
+    date_start: '2023-02-06'
+    date_end: ''
+    description: |2-
+        * Introduced a new backend app for the protyping of a new app for {{< staticref "https://firefly.adobe.com/" "newtab" >}}Adobe Firefly{{< /staticref >}}. 
+        * Enhanced existing backend apps so that new features or options can be added on the frontend. 
+        * Developed multiple UI prototypes for Adobe Firefly to demonstrate it to leadership. 
+        * Facilitated better annotations for NSFW data classification using Prodigy. 
+
   - title: Software Developer
     company: The Luminosity Lab
     company_url: 'https://theluminositylab.com/'
     company_logo: 
     location: Tempe, Arizona
     date_start: '2021-03-01'
-    date_end: ''
+    date_end: '2022-12-12'
     description: |2-
         * Developed an Android app for a company that aims to reduce stress through wearables. 
         * Improved the credit rewards system to increase the mobile app usage for Bank of the West.
