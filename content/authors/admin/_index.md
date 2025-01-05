@@ -6,7 +6,7 @@ title: Jalansh Munshi
 superuser: true
 
 # Role/position/tagline
-role:  Software Engineer at Adobe | The Luminosity Lab, ASU | Ex-Full Stack Dev at Pirimid Fintech
+role:  Software Engineer, ML at Adobe
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,16 @@ organizations:
   url: https://www.adobe.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A full-stack sofware engineer keen to gain experience in a variety of products. Hit me up if you have a new idea that we can work on!  
+bio: A full-stack engineer in ML focussed on building products and solving software engineering problems.
 
 # My interests include full-stack software engineering, reading non-fiction, traveling, and cooking. 
 
 # Interests to show in About widget
 interests:
-- Full-stack Software Engineering
+- Full-stack Engineering
+- Artificial Intelligence, Machine Learning
 - Generative AI
+- Quantum Computing
 
 # Education to show in About widget
 education:
