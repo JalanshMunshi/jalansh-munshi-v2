@@ -1,5 +1,5 @@
 ---
-title: Multi GPU Deployment for a Large AI Model
+title: "Scaling your AI model: A hands-on guide to a Multi-GPU Deployment"
 subtitle: Using ray serve to deploy a large AI model on multiple GPUs as an API endpoint.  
 
 # Summary for listings and search engines
@@ -12,7 +12,7 @@ projects: []
 date: "2024-12-15T00:00:00Z"
 
 # Date updated
-lastmod: "2024-12-15T00:00:00Z"
+lastmod: "2025-01-04T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -46,7 +46,7 @@ Generative AI has progressed quite significantly and so has the need to deploy i
 
 This post does not go too deep into explaining what ray or ray serve has to offer, but rather dives into how you can use ray serve to deploy a model. If you are an engineer, a researcher with some understanding about APIs, or a technical manager, you will definitely learn about something that you can potentially use for your own projects. 
 
-All code lives in this repo! (YET TO CREATE REPO)
+All code lives in [this repo](https://github.com/JalanshMunshi/caption-app)!
 
 ## A Bit about Ray Serve
 
@@ -157,7 +157,8 @@ class YourBigModel:
             path,
             torch_dtype=torch.bfloat16,
             low_cpu_mem_usage=True,
-            trust_remote_code=True).eval().to(device) # send to specific device
+            trust_remote_code=True
+          ).eval().to(device) # send to specific device
         self.tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False)
         self.generation_config = dict(max_new_tokens=1024, do_sample=False)
         self.question = "<image>\nPlease give a detailed caption for the given image that covers all the objects in foreground and background. Please do not start with 'The image'."
@@ -173,7 +174,7 @@ class YourBigModel:
 entry = YourBigModel.bind()
 ```
 
-There are various ways to start a ray server. I personally find the deployment config to be much cleaner, organized and less error prone when the number of models grow. A deployment config for the above application is below. I will explain the relevant paramters via comments as the explanation alongside the actual parameter makes it faster to understand. 
+There are various ways to start a ray server. I personally find the deployment config to be much cleaner, organized and less error prone when the number of models grow. A deployment config for the above application is below. I will explain the relevant paramters via comments as the explanation alongside the actual parameter makes it faster to understand. Do note that there are other ways to specify deployment parameters. I will cover the approach via a deployment config as I find that to be cleaner and easier to maintain.
 
 ```
 # caption_deploy.yaml
@@ -218,18 +219,20 @@ applications:
 
     # number of replicas, i.e. parallel deployments. You can have one model instance per GPU.
     # I believe it is possible to have multiple replicas (subject to available GPU memory) on a single GPU, but that often leads to memory issues. You can try and see how it goes.
+    # For example, if you want to deploy a model on 8 GPUs, num_replicas should be 8.
     num_replicas: 1
 
     ray_actor_options:
       num_cpus: 1.0 # You do need at least 1 CPU per replica.
       num_gpus: 1.0 # Higher if one instance of your model needs more than 1 GPU.
+      # If one instance of your models needs 2 GPUs and you have 8 GPUs total, then num_replicas should be 4 (8 / 2), otherwise your deployment will have insufficent resources.
 
   # You can add more models under the deployments section. 
   # You can also decouple multiple models across different files and have one config to drive the full deployment together.
   # There are many other configurations that you can dive deeper into here - https://docs.ray.io/en/latest/serve/configure-serve-deployment.html#serve-configure-deployment
 ```
 
-Deploy your models by - `serve run caption_deploy.yaml`
+Deploy your models by - `serve run caption_deploy.yaml`. You can dive deeper into other ways of deploying [here](https://docs.ray.io/en/latest/serve/api/index.html#command-line-interface-cli).
 
 ## Final Notes
 

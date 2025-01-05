@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Engineer
+  - title: Software Engineer / Machine Learning Engineer
     company: Adobe
     company_url: 'https://www.adobe.com/'
     company_logo: 
@@ -30,10 +30,10 @@ experience:
     date_start: '2023-02-06'
     date_end: ''
     description: |2-
-        * Introduced a new backend app for the protyping of a new app for {{< staticref "https://firefly.adobe.com/" "newtab" >}}Adobe Firefly{{< /staticref >}}. 
-        * Enhanced existing backend apps so that new features or options can be added on the frontend. 
-        * Developed multiple UI prototypes for Adobe Firefly to demonstrate it to leadership. 
-        * Facilitated better annotations for NSFW data classification using Prodigy. 
+        * Making the entire model training simpler one PR at a time by improving the training infrastructure and reducing the time to start training and evaluating a model checkpoint. I have actively been involved in development and PR reviews for changes that are used for production trainings where it is important to continuously determine the quality of image generations. 
+        * Created a new model pipeline in the production repo that brings identity preservation into Firefly's image offerings. This was an entirely new experience as the parity between research and production pipelines is often not same in the beginning. 
+        * Synthetic data generation, subject to data laws, for the next generation of Firefly Image model. This entails experimenting with a lot of models, to see how the generated data impacts the model because having better data almost always leads to a bump in quality. 
+        * Deploying various models for rapid internal prototyping to see how good the models are, or how can they be used by end users, by using them on a user interface. 
 
   - title: Software Developer
     company: The Luminosity Lab
